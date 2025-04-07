@@ -22,14 +22,3 @@ msgstr ""
 msgid "English"
 msgstr "English"
 
-#: jobs/settings.py:119
-msgid "Bengali"
-msgstr "বাংলা"
-
-#: templates/home.html:23
-msgid "Position"
-msgstr "অবস্থান"
-
-#: templates/lang_selector.html:9
-msgid "Language"
-msgstr "ভাষা"
